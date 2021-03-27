@@ -1,4 +1,7 @@
 Esse é o arquivo principal do projeto.
 Continuando os Objeto 1.
+
 Mudança da Lia.
 Fonini adicionando algo ao arquivo principal.
+
+Mais uma mudança com conflito do Fonini para simular o meu merge com conflito.
